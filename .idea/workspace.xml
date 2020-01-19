@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09e29a02-3c5e-435d-814f-2a81c60e7a80" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WcfIled1I2XB5h6vJ9Jkv9vik9" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DemoApiTest.apiTest6">
+    <configuration name="DemoApiTest.apiTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restapitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restapitest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restapitest" />
+      <option name="MAIN_CLASS_NAME" value="com.restapitest.DemoApiTest" />
+      <option name="METHOD_NAME" value="apiTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApiTest.apiTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restapitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restapitest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restapitest" />
+      <option name="MAIN_CLASS_NAME" value="com.restapitest.DemoApiTest" />
+      <option name="METHOD_NAME" value="apiTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApiTest.apiTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restapitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restapitest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restapitest" />
+      <option name="MAIN_CLASS_NAME" value="com.restapitest.DemoApiTest" />
+      <option name="METHOD_NAME" value="apiTest4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApiTest.apiTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restapitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restapitest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restapitest" />
+      <option name="MAIN_CLASS_NAME" value="com.restapitest.DemoApiTest" />
+      <option name="METHOD_NAME" value="apiTest5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApiTest.apiTest6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restapitest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restapitest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restapitest" />
+      <option name="MAIN_CLASS_NAME" value="com.restapitest.DemoApiTest" />
+      <option name="METHOD_NAME" value="apiTest6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemoApiTest.apiTest6" />
+        <item itemvalue="JUnit.DemoApiTest.apiTest4" />
+        <item itemvalue="JUnit.DemoApiTest.apiTest5" />
+        <item itemvalue="JUnit.DemoApiTest.apiTest3" />
+        <item itemvalue="JUnit.DemoApiTest.apiTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09e29a02-3c5e-435d-814f-2a81c60e7a80" name="Default Changelist" comment="" />
+      <created>1579453725380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579453725380</updated>
+    </task>
+    <servers />
+  </component>
+</project>
